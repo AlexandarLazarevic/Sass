@@ -48,7 +48,7 @@ h1 {
   margin-bottom: $base-margin;
 }
 a {
-  color: $secondary;
+  color: $error;
 }
 button {
   color: white;
@@ -74,6 +74,6 @@ button {
   border-style: solid;
   margin: $base-margin;
   padding: $base-padding;
-  border-radius: $base-border-radius;
   border-width: $base-border-thickness;
+  border-radius: $base-border-radius;
 }
