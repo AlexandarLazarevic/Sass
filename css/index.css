@@ -27,6 +27,39 @@ img {
   max-width: 100%;
 }
 
-h1 a {
-  color: #068063;
+h1 {
+  color: #326dee;
+  margin-bottom: 0.75rem;
+}
+
+a {
+  color: #d32752;
+}
+
+button {
+  color: white;
+  border: 0;
+  background: #326dee;
+  border-radius: 20px;
+  padding: 0.75rem;
+}
+
+.error {
+  color: #d32752;
+  border-color: #d32752;
+  border-style: solid;
+  margin: 0.75rem;
+  padding: 0.75rem;
+  border-radius: 20px;
+  border-width: 1px;
+}
+
+.notification {
+  color: #1ac886;
+  border-color: #1ac886;
+  border-style: solid;
+  margin: 0.75rem;
+  padding: 0.75rem;
+  border-width: 1px;
+  border-radius: 20px;
 }
