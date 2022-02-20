@@ -28,14 +28,12 @@ img {
 }
 
 h1 {
-  color: #326dee;
-  margin-bottom: 0.75rem;
+  color: $primary;
+  margin-bottom: $base-margin;
 }
-
 a {
-  color: #d32752;
+  color: $error;
 }
-
 .test {
-  color: #326dee;
+  color: $primary;
 }
