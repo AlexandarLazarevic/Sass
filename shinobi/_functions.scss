@@ -1,0 +1,8 @@
+@function light-comp($color, $number: 30%) {
+  //variable
+  $complement: complement($color);
+  //light-complement variable with $complement variable like argument
+  $light-complement: lighten($complement, $number);
+  //return variable
+  @return $light-complement;
+}

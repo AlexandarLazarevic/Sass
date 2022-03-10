@@ -1,6 +1,6 @@
 # Sass
 
-All course files for the Complete Sass Tutorial on the Net Ninja YouTube channel.
+All course files for the Complete Sass Tutorial on the Net Ninja YouTube channel:
 #1 - Introduction,
 #2 - Compiling SASS,
 #3 - Variables,
